@@ -1,0 +1,16 @@
+.one {
+    background-color: #000;
+    color: #fff;
+}
+
+.two {
+    background-color: #fefe19;
+    color: #000;
+}
+
+.click-me{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+/* `Helvetica` and `Times New Roman`, with `sans-serif` */
