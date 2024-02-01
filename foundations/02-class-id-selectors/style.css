@@ -1,0 +1,19 @@
+.p-one, .p-two, .p-three{
+    background-color: #fe8181;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif
+}
+
+.p-two{
+    font-size: 24px;
+}
+
+#id-one{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#id-two{
+    background-color: #94de94;
+    font-size: 24px;
+    font-weight: bold;
+}
