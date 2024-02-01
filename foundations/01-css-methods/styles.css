@@ -1,0 +1,19 @@
+div{
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p{
+    background-color: green;
+    color: #fff;
+    font-size: 18px;
+}
+
+button{
+    background-color: orange;
+    font-size: 18px;
+}
